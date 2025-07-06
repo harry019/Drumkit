@@ -1,37 +1,32 @@
-🥁 JavaScript Drum Kit
-A simple interactive drum kit built with vanilla JavaScript. Press keyboard keys to play different drum sounds!
-How to Use
-Press these keys to play sounds:
+# 🥁 JavaScript Drum Kit
 
-A - Clap
-S - Hi-hat
-D - Kick
-F - Open Hat
-G - Boom
-H - Ride
-J - Snare
-K - Tom
-L - Tink
+A simple and fun interactive drum kit built using **Vanilla JavaScript**. Press the keys on your keyboard to play different drum sounds and create your own beats!
 
-Setup
+![Drum Kit Preview](preview.png)
 
-Clone the repository
-Add your audio files to a sound/ folder (clap.mp3, hihat.mp3, kick.mp3, etc.)
-Add a background image drum.jpg
-Open index.html in your browser
+---
 
-Features
+## 🎮 How to Use
 
-Visual feedback when keys are pressed
-Multiple sounds can play at once
-Responsive design
-Clean, simple interface
+Press the following keys to play drum sounds:
 
-Tech Stack
+| Key | Sound      |
+|-----|------------|
+| A   | Clap       |
+| S   | Hi-Hat     |
+| D   | Kick       |
+| F   | Open Hat   |
+| G   | Boom       |
+| H   | Ride       |
+| J   | Snare      |
+| K   | Tom        |
+| L   | Tink       |
 
-HTML5
-CSS3
-Vanilla JavaScript
+---
 
+## 🛠️ Setup Instructions
 
-Just press keys and make beats! 🎵
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/javascript-drum-kit.git
+   cd javascript-drum-kit
